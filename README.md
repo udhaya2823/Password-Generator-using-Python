@@ -6,7 +6,7 @@ Welcome to my **Python Projects Collection Repository!** 🚀 This repository co
 
 ## 📌 Project List
 
-### 🔹 1. Secure Password Generator
+### 🔹 **Secure Password Generator** – Generates strong, customizable passwords.
 
 ## 🚀 Installation & Usage
 
