@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/) 
 
-Welcome to my **Python Projects Collection Repository!** 🚀 This repository contains a collection of Python projects covering various domains such as **Data Science, Machine Learning, Automation, Web Development, and Security.**
+Welcome to my **Python Projects Collection Repository!** 🚀 This repository contains a collection of Python projects covering various domains.
 
 ## 📌 Project List
 
